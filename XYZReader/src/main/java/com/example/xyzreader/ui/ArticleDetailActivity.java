@@ -76,6 +76,8 @@ import com.example.xyzreader.data.ItemsContract;
             }
         });
 
+
+
         mUpButtonContainer = findViewById(R.id.up_container);
 
         mUpButton = findViewById(R.id.action_up);
